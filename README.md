@@ -6,7 +6,7 @@ Just Enough Items backported to Minecraft 1.7.10, with compatibility for the exi
 
 **Author:** Astryxion
 
-**Credits:** mezz, ChickenBones, mitchej123, Astryxion
+**Credits:** mezz, ChickenBones, mitchej123
 
 ## License
 
